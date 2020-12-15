@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-storage
 Version  : 9.0.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/24/46/4066efd8ca21d6bdb7b45540876a5558b8ca4100b770e8d3f69168e7ed71/azure-mgmt-storage-9.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/24/46/4066efd8ca21d6bdb7b45540876a5558b8ca4100b770e8d3f69168e7ed71/azure-mgmt-storage-9.0.0.zip
 Summary  : Microsoft Azure Storage Management Client Library for Python
